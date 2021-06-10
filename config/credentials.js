@@ -1,0 +1,4 @@
+module.exports = {
+    APP_ID: "MAMTE0MTNKY2NIMTI2NM",
+    APP_TOKEN: "NGViNTEzNWUxMjk1Yzk5ZDc1MjA0ODBlZDUzNmM5"
+}
